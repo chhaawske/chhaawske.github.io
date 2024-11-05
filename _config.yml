@@ -20,11 +20,11 @@ title: Crack The Interview
 ###############################################
 
 # navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # About Me: "aboutme"
+  # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -93,10 +93,10 @@ round-avatar: false
 
 # Select which social network share links to show in posts
 # share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
+#  twitter: false
+#  facebook: false
+#  linkedin: false
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
