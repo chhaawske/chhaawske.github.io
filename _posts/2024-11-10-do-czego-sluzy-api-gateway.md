@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do czego służy API Gateway
+thumbnail-img: /assets/img/gateway.jpg
 tags: [wydajność]
 ---
 
