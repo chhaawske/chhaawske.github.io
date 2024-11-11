@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorytmy projektowania systemów rozproszonych
-thumbnail-img: /assets/img/2024-20-26.jpg
+thumbnail-img: /assets/img/2024-10-26.jpg
 tags: [systemy rozproszone]
 ---
 
