@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do czego służy CDN
+thumbnail-img: /assets/img/2024-11-09.jpg
 tags: [wydajność]
 ---
 

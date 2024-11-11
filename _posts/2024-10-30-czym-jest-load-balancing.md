@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Czym jest load balancing
+thumbnail-img: /assets/img/2024-10-30.jpg
 tags: [wydajność]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jak przygotować się do rozmowy 'System Design'
+thumbnail-img: /assets/img/2024-11-06.jpg
 tags: [system design]
 ---
 
@@ -12,3 +13,11 @@ Jak przejść przez rozmowę typu 'System Design'?
 - API wewnętrzne jeżeli takie nam wychodzi z projektu może świadczyń o konieczności pracy w środowisku mikroserwisowym
 - ważnym etapem jest określenie warstawy przechowywania danych, gdzie i w jaki sposób będą one przechowywane
 - ważne aby mówić na głos dlaczego wybieramy taką ścieżkę a nie innną tak aby osoba rekrutująca miała pełne rozumienie co kryje się za naszym tokiem myślenia
+
+Jak przeprowadzić taką rozmowę?
+- wymagania funkcjonalne
+- założenia dla systemu
+- wymagania niefunkcjonalne
+- narysowanie ogólnej architektury
+- dodanie API ogólnego (opcjonalne)
+- projekt bazy danych ogólny (opcjonalne)

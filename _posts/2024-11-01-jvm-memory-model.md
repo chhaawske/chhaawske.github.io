@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Model pamięci JVM
+thumbnail-img: /assets/img/2024-11-01.jpg
 tags: [jvm]
 ---
 

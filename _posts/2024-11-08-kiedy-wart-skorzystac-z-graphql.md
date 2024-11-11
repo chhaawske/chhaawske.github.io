@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kiedy skorzystać z GraphQL
+thumbnail-img: /assets/img/2024-11-08.jpg
 tags: [API]
 ---
 

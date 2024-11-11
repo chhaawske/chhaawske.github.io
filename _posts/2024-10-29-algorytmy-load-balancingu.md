@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Algorytmy load balancingu
+thumbnail-img: /assets/img/2024-10-29.jpg
 tags: [wydajność]
 ---
 

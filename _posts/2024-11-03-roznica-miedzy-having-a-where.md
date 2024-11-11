@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Różnica między HAVING i WHERE
+thumbnail-img: /assets/img/2024-11-03.jpg
 tags: [baza danych]
 ---
 
