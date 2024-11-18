@@ -21,3 +21,5 @@ Jak przeprowadzić taką rozmowę?
 - narysowanie ogólnej architektury
 - dodanie API ogólnego (opcjonalne)
 - projekt bazy danych ogólny (opcjonalne)
+
+https://github.com/donnemartin/system-design-primer
