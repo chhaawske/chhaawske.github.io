@@ -18,3 +18,8 @@ Pytania do zadania przed wyborem klienta HTTP:
 - na jakim wątku działa mój kod?
 - jak duża jest pula wątków?
 - jak mogę kontrolować pule wątków?
+
+
+ograniczenia w problem c10k równoległych połączeń
+- max liczba połączeń możliwych do zestawienia bo w linuxie połączenie jest plikiem (file descriptorem) i mamy na nie limity dla ubuntu default to 1024 tylko połączenia są nie tylko na wejściu ale również między warstwami aż do bazy danych więc ta pula staje się automatycznie mniejsza i 1024 połączenia nie przełożą się na 1024 różnych klientów naszej aplikacji 
+w linuxie /proc/1234/limits pokazuje np. limit file descriptorów

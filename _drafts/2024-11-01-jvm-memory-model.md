@@ -12,3 +12,5 @@ tags: [jvm]
 - native methods stacks - (methods written in a language other than the Java programming language). Native method stacks may also be used by the implementation of an interpreter for the Java Virtual Machine's instruction set in a language such as C
 
 Przy okazji warto wspomnieć o tym czym jest proces i wątek. Proces jest zbiorem wątków dla których istnieje współdzielona pamięć. Jeżeli mamy parę procesów to one między sobą nie dzielą się pamięcią. Proces to 'worek' na wątki. Wątki i procesy w linuxie leżą bardzo blisko siebie. Gdy startuje JVM, to JVM prosi system o wątki systemowe. Java tylko zleca stworzenia wątku. Więc wątki JVM to są wątki systemowe. Wątki JVM są w taki sam sposób zarządzane jak wątki systemowe.
+
+https://bell-sw.com/blog/guide-to-jvm-memory-configuration-options/#mcetoc_1gv0shv8715u
